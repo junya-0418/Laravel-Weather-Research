@@ -32,6 +32,7 @@ class WeatherBubbleBuilder implements ContainerBuilder {
             "partly-cloudy-day" => "https://icon-rainbow.com/i/icon_00722/icon_007220_256.png",
             "cloudy" => "https://icon-rainbow.com/i/icon_00706/icon_007060_256.png",
             "rain" => "https://icon-rainbow.com/i/icon_00891/icon_008910_256.png",
+            "snow" => "https://icon-rainbow.com/i/icon_02855/icon_028550_256.png",
 
         );
 
